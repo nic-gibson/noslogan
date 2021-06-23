@@ -1,0 +1,14 @@
+baseURL = "http://newt.noslogan.org/"
+languageCode = "en-uk"
+title = "newt@noslogan"
+theme = "ananke"
+
+
+[params]
+description = "nothing to see here, move along"
+github = "nic-gibson"
+twitter = "nic_gibson"
+background_color_class = "bg-silver"
+body_classes = "avenir bg-near-white"
+featured_image = '/images/lake-wood.jpg'
+cover_dimming_class = "bg-black-20"
