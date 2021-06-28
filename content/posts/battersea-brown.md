@@ -1,7 +1,7 @@
 ---
 title: "Battersea Brown"
 date: 2021-06-04
-draft: true
+draft: false
 author: Nic 
 ---
 
@@ -69,7 +69,7 @@ Bake for approximately 40 minutes, or until the loaves sound hollown when tapped
 
 
 [^1]: I actually use dried active yeast at around ⅓ of the amount, so 3–4g
-[^2]: For me, 50g or so of dried active yeast.
+[^2]: Or 40-50g of dried active yeast.
 [^3]: I have a fan oven and find that 180° C is about right. 
 
 
