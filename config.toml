@@ -1,4 +1,4 @@
-baseURL = "http://newt.noslogan.org/"
+baseURL = "https://nic-gibson.github.io/"
 languageCode = "en-uk"
 title = "newt@noslogan"
 theme = "ananke"
