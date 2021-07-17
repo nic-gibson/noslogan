@@ -1,14 +1,22 @@
-baseURL = "https://nic-gibson.github.io/"
+baseURL = "https://noslogan.org/"
 languageCode = "en-uk"
 title = "newt@noslogan"
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+SectionPagesMenu="main"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
 
 
 [params]
-description = "nothing to see here, move along"
-github = "https://github.com/nic-gibson"
-twitter = "https://twitter.com/nic_gibson"
-background_color_class = "bg-silver"
-body_classes = "avenir bg-near-white"
-featured_image = '/images/lake-wood.jpg'
-cover_dimming_class = "bg-black-20"
+  description = "nothing to see here, move along"
+  github = "https://github.com/nic-gibson"
+  twitter = "https://twitter.com/nic_gibson"
+  background_color_class = "bg-silver"
+  body_classes = "avenir bg-near-white"
+  featured_image = '/images/lake-wood.jpg'
+  cover_dimming_class = "bg-black-20"
