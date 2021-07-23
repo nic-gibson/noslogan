@@ -28,6 +28,8 @@ __Day 1: Make the sponge__
 
 10 g fresh yeast[^1]
 
+350 ml cool water
+
 ---
 
 
