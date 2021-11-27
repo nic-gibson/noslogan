@@ -18,6 +18,8 @@ to digitise the recipe. Scanning seems silly when I can type so…
 One thing – this recipe is huge. I make half of it and fills a two pound bread tin
 and two one pound tins (the recipe below is the full amount). Where it says divide into four below, I divide it into two and then one of those again (one big loaf and two small)
 
+{{< gallery >}} 
+
 ## Lighthouse Bakery Battersea Brown
 
 This is a 2-day bread.
