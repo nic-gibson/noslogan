@@ -16,8 +16,8 @@ This makes about 20-24 muffins. They are best when you eat them absolutely fresh
 * 200g sourdough starter
 * 40g maple syrup (or honey if you must)
 * 480g milk (it works best if you weigh it)
-* 360g plain flour
-* 5g fine sea salt
+* 720 plain flour
+* 10g fine sea salt
 * 40g polenta flour (sprinkling - don't put it in the mixture)
 
 ## Method
