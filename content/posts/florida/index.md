@@ -1,7 +1,7 @@
 ---
 title: "Kayaking in Florida"
 date: 2022-11-04T09:45:13+06:00
-draft: true
+draft: false
 ---
 
 We've been on Florida on holiday (vacation?) with Em's dad and his wife. We visited the theme parks, they were OK. Disney is much more mellow than Universal, there are some great rides at both but Owen and I (the ride fans) like roller coaster rich environments best really. 
