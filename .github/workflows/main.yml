@@ -29,6 +29,6 @@ jobs:
           publish_dir: ./public
           #   keep_files: true
           user_name: nic-gibson
-          user_email: <username@email.com>
+          user_email: newt+website@noslogan.org
           publish_branch: main
         #   cname: example.com
