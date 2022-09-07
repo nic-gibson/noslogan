@@ -11,14 +11,13 @@ This always feels like cheating because there's baking soda and powder as well a
 <!--more-->
 
 ## Ingredients
-
 * 2 cups all-purpose flour
 * 2 teaspoons baking powder
 * 1 teaspoon baking soda
 * 2 tablespoons caster sugar
 * 1 teaspoon salt
 * 1 cup sourdough starter
-* 1 1/2 cups milk
+* 1 ½ cups milk
 * 1 large egg beaten
 * 2 tablespoons vegetable oil
 
