@@ -11,7 +11,7 @@ This makes about 20-24 muffins. They are best when you eat them absolutely fresh
 <!--more-->
 
 
-## Ingredients
+## Ingredients
 
 * 200g sourdough starter
 * 40g maple syrup (or honey if you must)

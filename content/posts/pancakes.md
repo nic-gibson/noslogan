@@ -6,7 +6,7 @@ author: Nic
 description: "Our favourite sourdough pancakes"
 ---
 
-This always feels like cheating because there's baking soda and powder as well as sourdough but it makes really tasty muffins.
+This always feels like cheating because there's baking soda and powder as well as sourdough but it makes really tasty pancakes.
 
 <!--more-->
 
