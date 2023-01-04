@@ -2,3 +2,4 @@
 .DS_Store
 .hugo_build*
 public/
+resources/_gen
