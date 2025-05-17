@@ -2,6 +2,9 @@
 title: "Pavlova"
 date: 2021-09-02T09:15:13+01:00
 draft: false
+categories:
+    - recipes
+    - desserts
 ---
 
 I love pavlova. There seem to be *so* many different recipe variations for the meringue. I've tried loads but I always come back to this one. My mum gave this one to me about twenty years ago. This recipe has never let me down. I've tried ones from cookbooks and the meringue just hasn't worked as well. This works. 

@@ -4,6 +4,9 @@ date: 2021-12-20
 draft: false
 author: Nic 
 description: "Our favourite sourdough pancakes"
+categories:
+    - recipes
+    - sourdough
 ---
 
 This always feels like cheating because there's baking soda and powder as well as sourdough but it makes really tasty pancakes.

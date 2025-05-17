@@ -4,6 +4,8 @@ date: 2023-01-04
 draft: false
 author: Nic 
 description: "I wanted to use hot water crust pastry for a veggie christmas pie"
+categories:
+    - recipes
 ---
 
 I wanted to use a hot water crust pastry to make a Christmas main course. Given that we don't eat meat, raised pork pies weren't going to work. I've made a Christmas pie before that used butter beans, cheese, garlic and herbs so I decided to work from that and a raised pork pie and create a new recipe.

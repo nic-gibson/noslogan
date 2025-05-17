@@ -4,6 +4,9 @@ date: 2022-01-06
 draft: false
 author: Nic 
 description: "Perhaps I'll remember this way"
+categories:
+    - recipes
+    - bread
 ---
 
 I always forget how much of each different type of yeast to use. An aide memoire…

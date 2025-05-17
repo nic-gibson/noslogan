@@ -3,6 +3,9 @@ title: "Battersea Brown"
 date: 2021-06-04
 draft: false
 author: Nic 
+categories:
+    - bread
+    - recipes
 ---
 
 A long time ago in a city not so far away (Battersea), there was the Lighthouse 
@@ -12,13 +15,15 @@ the bread anymore. I mentioned this to the lovely people who ran the bakery.
 Clearly, we weren't the first because they had a printed copy of the recipe and 
 method ready to hand over. 
 
+<!--more-->
+
 Since we moved, the bakery has shut down and the owners moved on so we've only got the recipe. I've recently started to make bread again and I've been told by the 13 year old budding cook in the family that I need 
 to digitise the recipe. Scanning seems silly when I can type so…
 
 One thing – this recipe is huge. I make half of it and fills a two pound bread tin
 and two one pound tins (the recipe below is the full amount). Where it says divide into four below, I divide it into two and then one of those again (one big loaf and two small)
 
-{{< gallery >}} 
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 ## Lighthouse Bakery Battersea Brown
 

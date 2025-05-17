@@ -1,7 +1,9 @@
 ---
-title: "Programming"
+title: "My coding environment"
 date: 2021-08-20T16:25:30+01:00
 draft: false
+categories:
+    - tech
 ---
 
 I've been thinking about the things that I use to do my job. There's the obvious things like a web browser (I *like* Safari but I *use* Chrome). A lot has changed since because I've gone from a job where writing code was most of my job at MarkLogic to a job where writing code is something that I might do in order to get something in my job done (at Redis). 

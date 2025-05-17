@@ -4,6 +4,9 @@ date: 2024-08-12
 draft: false
 author: Nic 
 description: "Israeli Style Pita Bread"
+categories:
+    - bread
+    - recipes
 ---
 
 This is transcribed from [Max Malkiel's Recipe on Youtube](https://www.youtube.com/watch?v=MzNv-MjLc-w)

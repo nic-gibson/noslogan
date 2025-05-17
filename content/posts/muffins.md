@@ -4,6 +4,10 @@ date: 2021-12-20
 draft: false
 author: Nic 
 description: "Our favourite sourdough muffins"
+categories:
+    - recipes
+    - bread
+    - sourdough
 ---
 
 This makes about 20-24 muffins. They are best when you eat them absolutely fresh. Just make sure they are cooked _enough_. They aren't like the one you buy in the supermarket - they're a bit more dense. You can cook them until they start to brown.

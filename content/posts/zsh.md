@@ -4,6 +4,8 @@ date: 2021-09-07
 draft: false
 author: Nic 
 description: Setting up zsh consistently. Assuming zsh is installed…
+categories:
+    - tech
 ---
 
 ### Note to self
