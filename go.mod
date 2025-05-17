@@ -1,5 +1,9 @@
 module github.com/nic-gibson/noslogan
 
-go 1.16
+go 1.21
 
-require github.com/theNewDynamic/gohugo-theme-ananke v2.6.7+incompatible // indirect
+toolchain go1.23.2
+
+require (
+	github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.1 // indirect
+)
