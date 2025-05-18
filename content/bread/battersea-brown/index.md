@@ -2,7 +2,7 @@
 title: "Battersea Brown"
 date: 2021-06-04
 draft: false
-author: Nic 
+author: Nic
 categories:
     - bread
     - recipes

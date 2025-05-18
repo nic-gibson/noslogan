@@ -17,4 +17,13 @@ _But…_, we decided to go kayaking to get away from tourist Florida. Just up th
 We enjoyed it so much that we went back two days later and rented kayaks for two hours so we could explore the creek downstream as well.
 
 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery 
+    match="images/*" 
+    sortOrder="desc" 
+    rowHeight="150" 
+    margins="5" 
+    thumbnailResizeOptions="600x600 q90 Lanczos" 
+    showExif=true 
+    previewType="blur" 
+    embedPreview=true 
+    loadJQuery=true >}}

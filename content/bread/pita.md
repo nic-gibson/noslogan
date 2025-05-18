@@ -11,7 +11,8 @@ categories:
 
 This is transcribed from [Max Malkiel's Recipe on Youtube](https://www.youtube.com/watch?v=MzNv-MjLc-w)
 
-It makes 8 fluffy pitas
+It makes 8 fluffy pitas. I generally don't use the kitchen oven for these because the pizza oven makes great pitas. You can also use a pizza stone in a regular oven if you give it plenty of time to heat up. 
+
 
 <!--more-->
 
@@ -35,12 +36,12 @@ It makes 8 fluffy pitas
 6. Oil and bowl and put the dough into it.
 7. Add a little oil to the top and roll around to cover.
 8. Cover and leave for an hour to rise
-9. Place a baking tra in the oven upside down
+9. Place a baking tray in the oven upside down
 10. Heat your oven to it's maximum temperature.
 11. Split into 8 pieces and roll into a ball by stretching the top under the ball.
 12. Leave to rest for ten minutes or so 
 13. Roll each pita flat (to about 1cm deep)
 14. Place each into the oven and wait for it to rise up in a dome. 
-15. Once it has risen up (five mins max), take it out. 
+15. Once it has risen up (five mins max, 2 mins in the pizza oven), take it out. 
 16. Eat some pita. 
 
