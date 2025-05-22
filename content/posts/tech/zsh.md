@@ -12,6 +12,8 @@ categories:
 
 Setting up zsh consistently. Assuming zsh is installed…
 
+<!--more-->
+
 #### Install oh-my-zsh
 
 ```

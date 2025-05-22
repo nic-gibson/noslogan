@@ -11,7 +11,7 @@ categories:
 
 This recipe is so easy. I think I originally got it from a cookbook that I ordered from Carnation. The condensed milk makes the cookies softer. You can use almost any nuts. I've used pecans, hazelnuts, almonds and walnuts in the past. 
 
-<!-- more -->
+<!--more-->
 
 ## Ingredients
 
