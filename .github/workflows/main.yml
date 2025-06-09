@@ -1,34 +1,35 @@
-name: CI
-on: push
+name: Publish to Github Pages
+on: 
+  push:
+    branches:
+      - main
+  pull_request:
+
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Git checkout
-        uses: actions/checkout@v2
-
-      - name: Update theme
-        # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
-        run: git submodule update --init --recursive
+        uses: actions/checkout@v4
 
       - name: Setup hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "v0.140.2+extended+withdeploy"
+          hugo-version: "0.147.8"
+          extended: true
 
       - name: Build
-        # remove --minify tag if you do not need it
-        # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --minify --debug
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: nic-gibson/nic-gibson.github.io
           publish_dir: ./public
-          #   keep_files: true
           user_name: nic-gibson
           user_email: newt+website@noslogan.org
           publish_branch: main
-        #   cname: example.com
