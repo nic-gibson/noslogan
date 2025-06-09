@@ -24,7 +24,7 @@ This always feels like cheating because there's baking soda and powder as well a
 * 1 large egg beaten
 * 2 tablespoons vegetable oil
 
-### Method
+## Method
 
 1. Mix all the dry ingredients together
 2. Mix all the wet ingredients together
