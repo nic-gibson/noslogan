@@ -27,3 +27,6 @@ taxonomies:
   tag: tags
 
 
+security:
+  exec: 
+    allow: ['^code$', '^(dart-)?sass(-embedded)?$', '^go$', '^git$', '^npx$', '^postcss$', '^tailwindcss$']
